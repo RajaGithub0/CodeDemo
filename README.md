@@ -1,2 +1,2 @@
 # CodeDemo
-this is my first github file
+this is my first git repository
